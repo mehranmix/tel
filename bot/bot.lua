@@ -89,7 +89,9 @@ function create_config( )
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
-    info_text = [[》
+    info_text = [[
+⛑با تشکر از انتخاب شما برای سفارش ربات ضذ اسپم به آیدی زیر پیام دهید .
+@chatlocker
 
 ]],
   }
